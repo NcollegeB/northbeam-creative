@@ -2,6 +2,8 @@
 
 A modern static website for a fictional ad agency, built with Vite, plain HTML, CSS, and a small amount of JavaScript.
 
+Live site: https://eros-vercel.vercel.app
+
 ## Pages
 
 - Home
